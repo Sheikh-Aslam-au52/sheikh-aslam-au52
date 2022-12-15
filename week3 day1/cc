@@ -1,0 +1,11 @@
+git pull the change from cloud to local
+git pushh to send your commited file to cloud from local
+git log shows your all commits daigram
+git status show which file untracked and which tracked a
+ The git commit command captures a snapshot of the project's currently staged changes. 
+ git init used to converd a folder as a git repo.
+ git clone used to link cloud to your local machine
+ git checkout used to change one to another branch
+ mkdir used to create a new directory
+ ls -a shows all hidden folder>file.txt
+ git
